@@ -5,7 +5,7 @@
 
 ===================================================
 
-- [Discord Server](https://discord.gg/Gnz7Fu3AZJ)
+- [Discord Server](https://dsc.gg/codinghq)
 - [Bot Invite](https://discord.com/api/oauth2/authorize?client_id=771579220585349191&permissions=8&scope=bot)
 
 ===================================================
