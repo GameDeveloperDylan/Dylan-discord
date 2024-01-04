@@ -5,7 +5,7 @@
 
 ===================================================
 
-- [Main Discord Server](https://discord.gg/indiana)
+- [Main Discord Server](https://discord.gg/coziness)
 - [Discord Server Website](https://indianaroleplay.com/)
 
 ===================================================
